@@ -1,1 +1,1 @@
-import django 
+print("test")
